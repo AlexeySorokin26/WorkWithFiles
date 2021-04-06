@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WorkWithFiles1\WorkWithFiles1.csproj" />
+    <ProjectReference Include="..\WorkWithFiles2\WorkWithFiles2.csproj" />
+  </ItemGroup>
+
 </Project>

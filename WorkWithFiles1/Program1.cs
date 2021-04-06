@@ -5,7 +5,7 @@ using System.IO;
 namespace WorkWithFiles1
 {
     
-    class Program
+    public class Program1
     {
         const int minutesToCleanUp = 10;
         public static bool CheckModificationFileTime(FileInfo f)

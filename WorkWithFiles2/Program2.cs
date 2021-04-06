@@ -1,8 +1,9 @@
 ﻿using System;
 using System.IO;
+
 namespace WorkWithFiles2
 {
-    class Program
+    public class Program2
     {
         public static long DirSize(DirectoryInfo dir)
         {
